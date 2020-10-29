@@ -1,0 +1,7 @@
+
+10월 29, 2020 16:10:58.780 NEW SESSION
+10월 29, 2020 16:10:58.780 [6260:3868:1029/161058.779:ERROR:device_event_log_impl.cc(208)] [16:10:58.779] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 29, 2020 16:20:54.298 [1029/162054.298:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+10월 29, 2020 17:31:11.443 [12868:4668:1029/173111.443:ERROR:device_event_log_impl.cc(208)] [17:31:11.443] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 29, 2020 17:41:06.14 [1029/174106.014:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+10월 29, 2020 17:56:39.940 [12868:4668:1029/175639.940:ERROR:CONSOLE(0)] "Not allowed to load local resource: file://192.168.0.27/%EC%98%A4%EC%A0%84%20%EC%B7%A8%EC%97%85%EB%B0%98/jsp_workspace/html/fengsu.gif", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@b8c36128a06ebad76af51591bfec980224db5522/&can_dock=true&dockSide=undocked (0)

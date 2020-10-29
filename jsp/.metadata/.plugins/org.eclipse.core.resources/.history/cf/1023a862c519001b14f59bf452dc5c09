@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body bgcolor="skyblue">
+	<h1>HTML 연습</h1>
+	<table align="center" bgcolor="khaki">
+		<tbody>
+			<tr>
+				<th colspan="3"><font size="7" face="궁서체" style="color: blue">회사소개</font>
+					<hr width="300px" align="center" color="red"></th>
+			</tr>
+			<tr>
+				<ul>
+					<td>
+						<p>
+						<li><a href="https://www.naver.com/">네이버</a></li>
+						</p>
+						<p>
+						<li><a href="https://www.google.com/">구글</a></li>
+						</p>
+						<p>
+						<li><a href="https://www.daum.net/">다음</a></li>
+						</p>
+					</td>
+				</ul>
+				<th align="center">
+					<h3>
+						<dl>
+							<dt>
+								<font size="5">-회사소개-</font>
+							</dt>
+							<dd>
+								<i>
+									<p>안녕하세요</p>
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML 회사 입니다.</p>
+									환영합니다.
+								</i>
+							</dd>
+						</dl>
+					</h3>
+				</th>
+				<th align="right">
+					<img  width="100px" height="100px" src=https://lh3.googleusercontent.com/proxy/78Ys_c7RS_-hHRNTfBrT9eATYTQQA5y6q_lozjzY-rYD5Z42A72bXgFS8inTXvR1ogZwLKd1l5jhYUBDxZyYaHHMd5DNDHTwSElpGuaqip0P5MpN7RCgw9f2-7dB9wBFPbf8NmKeC4HUMhvhaJQnwgor2yyxy-6c9ACAWXRyGggh3LmmdO3z3UlGre6jCd-Cemd7inEHrQnWshtPNJYelDCNZGs68lp652Aj2Jcy6eRL2QpDOJVyOJGd08OPAsMwWjSjusVKCGmlPYwEPIeshhjJWwFlBaUXGtdC_JLro_HRzz6MtI9G82FaEXDRW_vGKpgqGeQf9b4b>
+				</th>
+			</tr>
+			<tr>
+				<td colspan="3">회사소개 · 광고안내 · 검색등록 · 제휴문의 · 인재채용 · 서비스약관 · 청소년보호
+				정책 · 개인<br>정보처리방침 · 웹접근성안내 · 고객센터 · <b><i>Copyright &copy; CARE LAB. ALL right reserved</i></b></td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
