@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>
+				<p>
+					다음 <span style="background-color: brown;"><b>내용에 맞게 입력</b></span>
+					하시오.
+				</p> 전공 분야를 입력하세요.
+			</td>
+		<tr>
+			<td><select>
+					<option>소프트웨어</option>
+					<option>하드웨어</option>
+					<option>백수</option>
+			</select>
+			<td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<header>
+		<div style="text-align: center;">
+			<h2 style="color: pink;">B l o g</h2>
+		</div>
+			<hr>
+			<b><font style="color: green;">전체</font></b>
+			&nbsp;&nbsp;인테리어&nbsp;&nbsp;&nbsp;어학&nbsp;&nbsp;&nbsp;자동차&nbsp;&nbsp;&nbsp;만화
+			<hr>
+	</header>
+</body>
+</html>

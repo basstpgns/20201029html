@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div>
+		<p>
+			다음 <span style="background-color: brown;"><b>내용에 맞게 입력</b></span>
+			하시오.
+			<!--  --><img align="bottom" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfJbPIxyqW-Ggw38rKUpqn-kC094PFflgf2w&usqp=CAU">
+		</p>
+		전공 분야를 입력하세요.
+		<select>
+			<option>소프트웨어</option>
+			<option>하드웨어</option>
+			<option>백수</option>
+		</select>
+
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="test01.html"> <!-- 버튼을 동작하기 위한 명령어 -->
+		<input type="text" name="id" placeholder="아이디 입력" method="get"><br> 
+		<!--
+			name에 입력한 값을 저장시키고 전달해준다. 변수를 만들어준다.
+			method를 입력하지 않으면 기본값으로 get방식이 된다. 
+			get방식 : 사용자가 입력한 값을 url에 넘겨주는 방식
+		 -->
+		<input type="text" name="pw" placeholder="비밀번호 입력"> <br>
+		<input type="submit" placeholder="로그인"><!-- submit은 무조건 form으로 묶어줘야 한다. 버튼이 눌렸을 때 action에 경로가 있다면 해당하는 경로로 이동한다. -->
+		<input type="reset" placeholder="초기화">
+		<input type="button" value ="버튼"> <!-- 버튼은 다른방식을 이동해야 한다. -->
+	</form>
+	<hr>
+	책 읽기
+	<input type="checkbox"> 롤
+	<input type="checkbox" checked> 멍
+	<input type="checkbox">
+	<hr>
+	10대
+	<input type="radio" name="age" checked> 20대
+	<input type="radio" name="age"> 30대
+	<input type="radio" name="age">
+	<hr>
+	<input type="button" value="버튼">
+	<br>
+	<input type="submit" value="서브밋">
+	<br>
+	<input type="reset" value="reset">
+	<br>
+	<input type="text" value="직접 들어옴">
+	<br>
+	<input type="password" value="직접 들어옴">
+	<br>
+	<input type="radio" value="">
+	<br>
+	<input type="checkbox" value="">
+	<br>
+</body>
+</html>

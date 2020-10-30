@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<header>
+		<div style="text-align: center; width: 800px;">
+			<h2 style="color: pink;">B &nbsp; l &nbsp; o &nbsp; g</h2>
+		</div>
+		<hr align="left" width="800px">
+		<b><font style="color: green;">전체</font></b>
+		&nbsp;&nbsp;인테리어&nbsp;&nbsp;&nbsp;어학&nbsp;&nbsp;&nbsp;자동차&nbsp;&nbsp;&nbsp;만화
+		<hr align="left" width="800px">
+	</header>
+	<section style="float: right;">
+		<video src="video.m4v" width="300px" height=200px " controls loop
+			Autoplay></video>
+		<table>
+			<tr align="left">
+				<th><img width="100px" height="100px" src="image/test1.jpg">
+					<img width="100px" height="100px" src="image/test2.jpg"> <img
+					width="100px" height="100px" src="image/test3.jpg"> <img
+					width="100px" height="100px" src="image/test7.jpg"></th>
+			<tr>
+				<th><img width="100px" height="100px" src="image/test4.jpg">
+					<img width="100px" height="100px" src="image/test5.jpg"> <img
+					width="100px" height="100px" src="image/test6.jpg"> <img
+					width="100px" height="100px" src="image/test8.jpg"></th>
+			</tr>
+		</table>
+	</section>
+</body>
+</html>

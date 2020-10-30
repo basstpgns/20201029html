@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table >
+		<tr>
+			<td><p>다음 
+				<span style="background-color: peru;"><b>내용에맞게 입력</b></span> 
+				하시오.</p>
+				전공 분야를 입력하세요. 
+				<select >
+					<option>소프트웨어</option>
+					<option>하드웨어</option>
+					<option>백수</option>
+				</select>
+				<p>이름 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"></p>
+				<p>아이디&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"></p>
+				<p>비밀번호 &nbsp;&nbsp;<input type="password"></p>
+			</td>
+			<td>
+				<img width="200px" height="200px" src="https://image.dongascience.com/Photo/2017/03/14900752352661.jpg">
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

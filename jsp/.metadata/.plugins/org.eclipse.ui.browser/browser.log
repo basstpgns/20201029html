@@ -5,3 +5,13 @@
 10월 29, 2020 17:31:11.443 [12868:4668:1029/173111.443:ERROR:device_event_log_impl.cc(208)] [17:31:11.443] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
 10월 29, 2020 17:41:06.14 [1029/174106.014:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
 10월 29, 2020 17:56:39.940 [12868:4668:1029/175639.940:ERROR:CONSOLE(0)] "Not allowed to load local resource: file://192.168.0.27/%EC%98%A4%EC%A0%84%20%EC%B7%A8%EC%97%85%EB%B0%98/jsp_workspace/html/fengsu.gif", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@b8c36128a06ebad76af51591bfec980224db5522/&can_dock=true&dockSide=undocked (0)
+
+10월 30, 2020 09:47:20.763 NEW SESSION
+10월 30, 2020 09:47:20.763 [12020:14036:1030/094720.762:ERROR:device_event_log_impl.cc(208)] [09:47:20.762] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 30, 2020 09:57:18.205 [1030/095718.205:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+10월 30, 2020 11:03:28.949 [4644:14116:1030/110328.949:ERROR:device_event_log_impl.cc(208)] [11:03:28.950] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 30, 2020 11:13:28.505 [1030/111328.505:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+10월 30, 2020 13:52:58.910 [11940:6648:1030/135258.910:ERROR:device_event_log_impl.cc(208)] [13:52:58.910] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 30, 2020 14:02:56.464 [1030/140256.464:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+10월 30, 2020 16:01:35.213 [4164:14028:1030/160135.213:ERROR:device_event_log_impl.cc(208)] [16:01:35.213] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 30, 2020 16:11:31.807 [1030/161131.807:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)

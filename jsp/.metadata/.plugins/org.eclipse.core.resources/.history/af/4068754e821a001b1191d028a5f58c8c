@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<header>
+		<div style="text-align: center;">
+			<h2 style="color: pink;">B l o g</h2>
+		</div>
+			<hr>
+			<b><font style="color: green;">전체</font></b>
+			&nbsp;&nbsp;인테리어&nbsp;&nbsp;&nbsp;어학&nbsp;&nbsp;&nbsp;자동차&nbsp;&nbsp;&nbsp;만화
+			<hr>
+	</header>
+	<table border="2">
+		<tr align="left">
+			<th>
+				<img width="100px" height="100px" src="image/test1.jpg">
+				<img width="100px" height="100px" src="image/test2.jpg">
+				<img width="100px" height="100px" src="image/test3.jpg">
+				<img width="100px" height="100px" src="image/test7.jpg">
+			</th>
+			<th rowspan="2">
+				<video src="video.m4v" width="300px" height="200px" style=float:" right"></video>
+			</th>
+		</tr>
+		<tr>
+			<th>
+				<img width="100px" height="100px" src="image/test4.jpg">
+				<img width="100px" height="100px" src="image/test5.jpg">
+				<img width="100px" height="100px" src="image/test6.jpg">
+				<img width="100px" height="100px" src="image/test8.jpg">
+			</th>
+		</tr>
+	</table>
+</body>
+</html>

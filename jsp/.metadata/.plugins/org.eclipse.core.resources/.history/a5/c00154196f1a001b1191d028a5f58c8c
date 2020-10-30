@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div style="float:right;
+text-align: left; color:red; width: 80%; background-color: black;">
+안녕하세요
+</div>
+<div style="width: 20%; text-align: right; background-color: red;">
+만나서 반갑습니다.
+</div>
+<div align="center" style="background-color: pink;">
+오늘은 즐거운 날입니다.
+</div>
+
+
+
+
+<hr>
+<header>
+	<center><h2>책갈피 기능</h2></center>
+</header>
+<section>
+	<a href ="#user">[이름]</a>
+	<a href ="#addr">[주소]</a>
+	<a href ="#tel">[전화번호]</a>
+	<a href ="#foot">[참고]</a>
+</section>
+<b>이름 영역</b><p>이름 영역</p>
+<a name="user" style="color: gold">홍길동</a>
+<a href="#top">[top]</a>
+
+<b>주소 영역</b><p>주소 영역</p>
+<a name="addr" style="color: gold">홍길동</a>
+<a href="#top">[top]</a>
+
+<b>전화번호 영역</b><p>전화번호 영역</p>
+<a name="tel" style="color: gold">홍길동</a>
+<a href="#top">[top]</a>
+
+<b>참고 영역</b><p>참고 영역</p>
+<a name="foot" style="color: gold">홍길동</a>
+<a href="#top">[top]</a>
+<figure>
+	<img src="test.jpg">
+</figure>
+<figure>
+	<video src="video.m4v" controls loop autoplay
+	width="300" height="250"></video>
+</figure>
+<hr>
+	<header style="background-color: pink;">
+		<h1>제 목 글</h1>
+	</header>
+	<nav style="background-color: khaki;">
+		<ul>
+			<li>이미지</li><li>지식in</li><li>블로그</li>
+		</ul>
+	</nav>
+		<section style="background-color: green; height: 100px;">
+			<article style="background-color: gold;">하나의 내용</article>
+			<article style="background-color: yellow;">하나의 내용</article>
+		</section>
+		<aside style="background-color: sktblue;">
+			웹 페이지의 좌/우측에 본문 내용외에<br>
+			부수적으로 표시되는 사이드바를 표시하는 영역
+		</aside>
+		<footer>
+			<div align="center">카페 이용약관</div>
+		</footer>
+	<hr>
+	<div>
+		1번 영역 <span style="background-color: gold;"><b>1번째</b></span> 끝이다
+	</div>
+	<!-- 블록 단위로 구분 -->
+	<div style="background-color: hotpink;">1번 영역</div>
+	<div style="background-color: skyblue;">2번 영역</div>
+	<div style="background-color: khaki;">3번 영역</div>
+	<span style="background-color: red">1번째</span>
+	<!-- 인라인 방식 -->
+	<span style="background-color: yellow">2번째</span>
+	<span style="background-color: hotpink">3번째</span>
+	<hr>
+	<fieldset style="width: 300px;">
+		<legend>
+			<b>취미조사</b>
+		</legend>
+		책<input type="checkbox"> 웹툰<input type="checkbox"> 공부<input
+			type="checkbox">
+	</fieldset>
+	<hr>
+	<textarea rows="3" cols="50"></textarea>
+	<hr>
+	<form>
+		<select size="1" name="select">
+			<!-- 사용자가 선택한 값의 value를 넘겨준다.  -->
+			<option value="사과11">사과
+			<option value="배11">배
+			<option value="복숭아11">복숭아
+			<option value="수박11">수박
+		</select>
+		<button type="submit">전송</button>
+	</form>
+	<hr>
+	<form action="test01.html" method="post">
+		<!-- 버튼을 동작하기 위한 명령어 -->
+		<input type="text" name="id" placeholder="아이디 입력"><br>
+		<!--
+			name에 입력한 값을 저장시키고 전달해준다. 변수를 만들어준다.
+			method를 입력하지 않으면 기본값으로 get방식이 된다. 
+			get방식 : 사용자가 입력한 값을 url에 넘겨주는 방식 / 최대 256byte까지만 지원한다. / 용량이 적거나 다른 사용자에게 보여져도 상관없으면 get방식을 이용한다.
+			post방식 : 데이터를 헤드에 붙혀서 넘겨주기 때문에  대용량데이터의 전달이 가능하다. / 데이터에 보안이 필요할 때 사용한다.
+		 -->
+		<input type="text" name="pw" placeholder="비밀번호 입력"> <br>
+		<input type="submit" placeholder="로그인">
+		<!-- submit은 무조건 form으로 묶어줘야 한다. 버튼이 눌렸을 때 action에 경로가 있다면 해당하는 경로로 이동한다. -->
+		<input type="reset" placeholder="초기화"> <input type="button"
+			value="버튼">
+		<!-- 버튼은 다른방식을 이동해야 한다. -->
+	</form>
+	<hr>
+	책 읽기
+	<input type="checkbox"> 롤
+	<input type="checkbox" checked> 멍
+	<input type="checkbox">
+	<hr>
+	10대
+	<input type="radio" name="age" checked> 20대
+	<input type="radio" name="age"> 30대
+	<input type="radio" name="age">
+	<hr>
+	<input type="button" value="버튼">
+	<br>
+	<input type="submit" value="서브밋">
+	<br>
+	<input type="reset" value="reset">
+	<br>
+	<input type="text" value="직접 들어옴">
+	<br>
+	<input type="password" value="직접 들어옴">
+	<br>
+	<input type="radio" value="">
+	<br>
+	<input type="checkbox" value="">
+	<br>
+</body>
+</html>

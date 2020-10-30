@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>다음 <span style="background-color: peru;"><b>내용에
+						맞게 입력</b></span> 하시오.
+			</td>
+			<td rowspan="3"><img height="100px" width="150px" alt="사진"
+				src="https://image.dongascience.com/Photo/2017/03/14900752352661.jpg">
+			</td>
+		</tr>
+		<tr>
+			<td>전공 분야를 입력하세요. <select>
+					<option>소프트웨어</option>
+					<option>하드웨어</option>
+					<option>백수</option>
+			</select>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	다음 
+	<span style="background-color: brown;"><b>내용에 맞게 입력</b></span>
+	하시오
+</body>
+</html>

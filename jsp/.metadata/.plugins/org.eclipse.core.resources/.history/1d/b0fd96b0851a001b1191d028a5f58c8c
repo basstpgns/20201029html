@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div style="width: 800px;">
+		<header>
+			<div style="text-align: center;">
+				<h2 style="color: pink;">B &nbsp; l &nbsp; o &nbsp; g</h2>
+			</div>
+			<hr align="left" width="800px">
+			<b><font style="color: green;">전체</font></b>
+			&nbsp;&nbsp;인테리어&nbsp;&nbsp;&nbsp;어학&nbsp;&nbsp;&nbsp;자동차&nbsp;&nbsp;&nbsp;만화
+			<hr align="left" width="800px">
+		</header>
+		<section>
+			<article style="float: right;">
+				<video src="video.m4v" width="300px" height=200px " controls loop
+					Autoplay></video>
+			</article>
+			<article>
+				<table>
+					<tr align="left">
+						<th><img width="100px" height="100px" src="image/test1.jpg">
+							<img width="100px" height="100px" src="image/test2.jpg"> <img
+							width="100px" height="100px" src="image/test3.jpg"> <img
+							width="100px" height="100px" src="image/test7.jpg"></th>
+					<tr>
+						<th><img width="100px" height="100px" src="image/test4.jpg">
+							<img width="100px" height="100px" src="image/test5.jpg"> <img
+							width="100px" height="100px" src="image/test6.jpg"> <img
+							width="100px" height="100px" src="image/test8.jpg"></th>
+					</tr>
+					<tr>
+						<th rowspan="4" align="left" ali>
+							<a href="#top">[위로가기]</a>
+							<hr align="left" width="800px">
+						</th>
+					</tr>
+				</table>
+			</article>
+		</section>
+		id : 컴퓨터
+		<h3>겨울 제주도 여행 천백고지 부터 우도맛집 총정리!</h3>
+	</div>
+</body>
+</html>

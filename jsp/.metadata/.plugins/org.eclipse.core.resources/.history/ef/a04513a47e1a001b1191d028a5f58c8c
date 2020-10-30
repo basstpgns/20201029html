@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<header>
+		<div style="text-align: center;">
+			<h2 style="color: pink;">B l o g</h2>
+			<hr>
+			<font style="color: green;"></font>
+			<hr>
+		</div>
+	</header>
+</body>
+</html>
